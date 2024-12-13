@@ -1,0 +1,9 @@
+root@ub22:/home/dn# uname -r
+5.15.0-126-generic
+
+root@ub22:/home/dn# lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.5 LTS
+Release:	22.04
+Codename:	jammy
